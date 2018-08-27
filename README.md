@@ -1,9 +1,9 @@
-# React Redux Dynamic Form
+# React Image Uploader
 
 ## Installation
 
 ```bash
-$ git clone https://github.com/prameetc/react-redux-dynamic-form.git <my-project-name>
+$ git clone https://github.com/prameetc/react-image-uploader.git <my-project-name>
 $ cd <my-project-name>
 ```
 
@@ -31,9 +31,3 @@ While developing, you will probably rely mostly on `yarn start`; however, there 
 |`test:watch`       |Runs `test` in watch mode to re-run tests when changed|
 |`lint`             |[Lints](http://stackoverflow.com/questions/8503559/what-is-linting) the project for potential errors|
 |`lint:fix`         |Lints the project and [fixes all correctable errors](http://eslint.org/docs/user-guide/command-line-interface.html#fix)|
-
-## Additional Comments
-
-* Redux Form is used to render the dynamic form
-* Axios is used for the API calls 
-* Bootstrap 4 is used for styling
